@@ -4,3 +4,6 @@
 [submodule "keyswitches.pretty"]
 	path = keyswitches.pretty
 	url = https://github.com/daprice/keyswitches.pretty.git
+[submodule "keyswitch-kicad-library"]
+	path = keyswitch-kicad-library
+	url = https://github.com/kiswitch/keyswitch-kicad-library.git
