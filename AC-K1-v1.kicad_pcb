@@ -29453,7 +29453,7 @@
 		(descr "tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1")
 		(tags "PHAP3362 6mm tact sw THT")
 		(property "Reference" "SW84"
-			(at 3.42 -2.7 360)
+			(at 3.42 -2.7 0)
 			(layer "F.SilkS")
 			(uuid "3119040b-f567-4438-beff-52d1c1800279")
 			(effects
@@ -29464,7 +29464,7 @@
 			)
 		)
 		(property "Value" "Reset"
-			(at 4.4 3.7 360)
+			(at 4.4 3.7 0)
 			(layer "F.Fab")
 			(uuid "b4083a9a-f169-4bfa-92ca-ff3d56bccec2")
 			(effects
@@ -29747,7 +29747,7 @@
 			(uuid "b96f0cdd-fa2f-4c72-9218-9e3a10a9c86e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3 0 360)
+			(at 3 0 0)
 			(layer "F.Fab")
 			(uuid "6b7c711a-d870-4b77-9c49-75198d1e4bba")
 			(effects
@@ -29798,7 +29798,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D37"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "955c4cac-1ea4-495c-8f96-d833955817df")
 			(effects
@@ -29810,7 +29810,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "032c0423-811f-441f-8382-6e7444826a9a")
 			(effects
@@ -30114,7 +30114,7 @@
 			(uuid "47887a1a-70f9-4e6d-80e2-7f32118c7c65")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "45f3e742-404f-4827-94c9-1538cbf39a3a")
 			(effects
@@ -30126,7 +30126,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "07f8053a-ef5a-4934-abd9-800526576891")
 			(effects
@@ -30138,7 +30138,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "164d4c38-6618-4d36-8f54-b09911101a13")
 			(effects
@@ -30190,7 +30190,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D13"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "997487cb-1fb7-49e8-9435-e21f7c05c10c")
 			(effects
@@ -30202,7 +30202,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "a50dac76-6123-4a95-8674-ab842d51ed79")
 			(effects
@@ -30506,7 +30506,7 @@
 			(uuid "a148a259-6d6b-42d4-bbf7-cab8b961b8a6")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "9afac1a4-3dc7-40c2-9da2-fb75afd3d549")
 			(effects
@@ -30518,7 +30518,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "958d17ac-e2ad-4dfb-9066-cd8497610ba6")
 			(effects
@@ -30530,7 +30530,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "bd7fc17a-8d52-4da9-947a-144c2c526c22")
 			(effects
@@ -30582,7 +30582,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D69"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "ae078a50-592f-4bae-a78f-7d9ecea912ed")
 			(effects
@@ -30594,7 +30594,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "028d466c-3e39-41df-9b43-6bb311c9e6a9")
 			(effects
@@ -30898,7 +30898,7 @@
 			(uuid "8aa539b8-58c3-42e5-a663-6c97ba0b3193")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "432e5d10-8134-4b5a-8944-aff53090b2e1")
 			(effects
@@ -30910,7 +30910,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "452fd315-620e-4e28-9404-627f1100100d")
 			(effects
@@ -30922,7 +30922,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "96659b90-63f6-493b-93bb-07df410a6313")
 			(effects
@@ -30974,7 +30974,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D65"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "217fe48e-f5cd-4d54-abc9-2c793ad9561b")
 			(effects
@@ -30986,7 +30986,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "a4e11c27-3702-4e4f-a78c-5bcc66ed119f")
 			(effects
@@ -31290,7 +31290,7 @@
 			(uuid "86973d86-0856-41ad-ad5d-0c17b112b188")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "da9e69d8-f851-402d-b770-4faa7cdd5e47")
 			(effects
@@ -31302,7 +31302,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "3996daf1-4d3a-46cf-94d3-7d3db1fd4fd5")
 			(effects
@@ -31314,7 +31314,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "bb34256a-004e-4038-877b-42323c13c69f")
 			(effects
@@ -31366,7 +31366,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D74"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "998a0e1d-1172-4e49-9a60-e1783829f38e")
 			(effects
@@ -31378,7 +31378,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "3d206d91-ec5c-47cf-8174-6ac0ae794e07")
 			(effects
@@ -31682,7 +31682,7 @@
 			(uuid "d7afa08a-484b-46c6-86f7-867df07b143a")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "2392cdc8-56c7-44f9-bc36-aecff4fc095e")
 			(effects
@@ -31694,7 +31694,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "01c0efe2-814a-497f-9e75-2f8298f36af6")
 			(effects
@@ -31706,7 +31706,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "60e78986-1bee-4cae-9e85-1ab01ab3c0b1")
 			(effects
@@ -31758,7 +31758,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D72"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "605fdbd8-ff55-4137-a46f-5ed9734a7773")
 			(effects
@@ -31770,7 +31770,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "afbe1bce-17e2-494e-b867-73b7505c047e")
 			(effects
@@ -32074,7 +32074,7 @@
 			(uuid "90eba3d0-7569-4e32-aca2-34746b95d9b0")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "15a6dc04-a2de-4188-97d8-f15e124f22b8")
 			(effects
@@ -32086,7 +32086,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "9252a0ad-b2ee-48ee-a8c7-78294f52e062")
 			(effects
@@ -32098,7 +32098,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "e97d9f9f-6da5-4ef7-807e-9dccdc940cad")
 			(effects
@@ -32150,7 +32150,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D64"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "bd52dc59-edd7-4d8b-99b7-b482ea699b29")
 			(effects
@@ -32162,7 +32162,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "49744f0e-e0f4-44ff-9f62-e5a1ecb88692")
 			(effects
@@ -32466,7 +32466,7 @@
 			(uuid "a8b86125-fff6-4a30-bbbe-4387015d76c9")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "96b0f7ec-9272-4d4f-baa3-f95e1b379c89")
 			(effects
@@ -32478,7 +32478,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "2a681368-4c98-40e5-bd5d-462e8cd9be02")
 			(effects
@@ -32490,7 +32490,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "a35e7cde-da5b-4900-8c13-2b9e2ee9ca17")
 			(effects
@@ -32542,7 +32542,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D26"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "f72cabaa-c264-401f-8cda-4cf128cf1709")
 			(effects
@@ -32554,7 +32554,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "0ba6411f-64f9-4bc8-9deb-b3d148f31cc1")
 			(effects
@@ -32858,7 +32858,7 @@
 			(uuid "e2c8fbf7-ce1f-4282-8827-4fab7c025ed2")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "40d643be-f9d9-4b7a-bf62-62c4a32805e3")
 			(effects
@@ -32870,7 +32870,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "8de56596-a3e7-4002-9e21-90446808eefc")
 			(effects
@@ -32882,7 +32882,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "c27c9eb7-798d-4b7d-9cca-d9669be9feef")
 			(effects
@@ -32934,7 +32934,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D36"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "cfcc7a01-fbd5-469b-9d97-f0a80cd56c84")
 			(effects
@@ -32946,7 +32946,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "c5a10945-3390-4c78-91ee-e890ebab3284")
 			(effects
@@ -33250,7 +33250,7 @@
 			(uuid "e481f5bf-bad7-4b6b-8bb6-01e17d137351")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "6eab8ad6-293e-4dbd-85fa-c477680184f2")
 			(effects
@@ -33262,7 +33262,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "2b0ab4cb-cede-467f-a989-cbaa2b6b459c")
 			(effects
@@ -33274,7 +33274,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "682dd01f-e4e0-4fd9-b27b-56270a79cbdf")
 			(effects
@@ -33326,7 +33326,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D57"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "de513d38-2324-4355-86a8-05f9e4514562")
 			(effects
@@ -33338,7 +33338,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "2ea5aae5-7d97-4c18-9aec-ab45b3140ca7")
 			(effects
@@ -33642,7 +33642,7 @@
 			(uuid "3896e50f-1db5-4f5f-9f19-98417b85a035")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "82c202a5-2725-44c3-9831-cad75f38dd64")
 			(effects
@@ -33654,7 +33654,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "0370d2eb-0574-4a9c-a1c3-7c9675fc9935")
 			(effects
@@ -33666,7 +33666,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "b9e88e72-5919-466e-be4c-fded6856871b")
 			(effects
@@ -33718,7 +33718,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D80"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "17d2fdee-c68c-4368-8280-2c4761639790")
 			(effects
@@ -33730,7 +33730,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "65fe6c48-34fa-4bfc-9bbf-cbc795d084e3")
 			(effects
@@ -34034,7 +34034,7 @@
 			(uuid "030d7930-6ff7-4f10-93f1-336a38897fd1")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "75d7e563-643a-488c-be3c-9f652485bcac")
 			(effects
@@ -34046,7 +34046,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "196b979f-148f-4826-86ed-f3890fec9603")
 			(effects
@@ -34058,7 +34058,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "3a87d978-f91d-4ef8-bb91-24ca163f6cb1")
 			(effects
@@ -34110,7 +34110,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "4798d2ce-7764-406c-9741-05ab4ce37d16")
 			(effects
@@ -34122,7 +34122,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "db98842d-390b-4f1c-a4b1-e8c7f2463cea")
 			(effects
@@ -34426,7 +34426,7 @@
 			(uuid "66bcb5ec-3b90-427c-8dc1-8945d4e33c50")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "d0203c85-7fd4-4f90-8ad3-7bae94c94c09")
 			(effects
@@ -34438,7 +34438,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "661c80c5-2d48-457f-908e-3861f2b18d08")
 			(effects
@@ -34450,7 +34450,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "d968e475-94f9-428b-8858-6baeeca4619e")
 			(effects
@@ -34502,7 +34502,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D24"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "5056d9b3-f99d-411f-bb15-4f45d0ba3ad7")
 			(effects
@@ -34514,7 +34514,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "f1f1a896-945f-4d36-aab5-e68efe94f623")
 			(effects
@@ -34818,7 +34818,7 @@
 			(uuid "29455c36-80d8-481f-bfb4-f7fea8734229")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "fda62894-ea12-4a94-900c-5398bc4bd48e")
 			(effects
@@ -34830,7 +34830,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "f4f415be-d23c-4b92-81a5-f1cbc856960a")
 			(effects
@@ -34842,7 +34842,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "f6d7853f-68eb-4ff8-8e7e-b07d40481e98")
 			(effects
@@ -34894,7 +34894,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D38"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "bd402425-c009-4bdc-a79f-018caf953a7d")
 			(effects
@@ -34906,7 +34906,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "e3d116be-c2c3-4e8f-a279-3254eb8438d0")
 			(effects
@@ -35210,7 +35210,7 @@
 			(uuid "dbfb2604-b018-436c-82ee-74660834715d")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "030d5c54-ca58-4872-9664-5ddac095170a")
 			(effects
@@ -35222,7 +35222,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "1b9fe697-2a89-46af-8c2b-d4753c5c780a")
 			(effects
@@ -35234,7 +35234,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "ded41e4c-345a-474d-a678-aa9615db18a2")
 			(effects
@@ -35286,7 +35286,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D47"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "bd9d1520-bb9e-45a2-8b49-c97c31f134d6")
 			(effects
@@ -35298,7 +35298,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "1caecd07-dd19-4f16-9099-ddc7c6c0ddaf")
 			(effects
@@ -35602,7 +35602,7 @@
 			(uuid "b248c5a0-12d7-4c6e-997a-bb23c5110d7d")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "f2d5c5ef-a793-42c6-a604-1d184f7acff4")
 			(effects
@@ -35614,7 +35614,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "0c655fc6-3cfa-46cb-a60a-3f3edf467494")
 			(effects
@@ -35626,7 +35626,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "40d2303a-f442-4f8f-9209-d30b257c7254")
 			(effects
@@ -36199,7 +36199,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D62"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "1b66ecbb-8966-4b73-b608-6f969b7eacdd")
 			(effects
@@ -36211,7 +36211,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "1abc4104-7eea-442d-bb93-69ffb1b9c1c0")
 			(effects
@@ -36515,7 +36515,7 @@
 			(uuid "32bb1b61-e09e-4562-b352-acfd90c7294f")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "296a6495-a173-4056-9ecf-79e1c16a7c49")
 			(effects
@@ -36527,7 +36527,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "57db9188-0cbe-4c42-bb12-4ce57c86c0ea")
 			(effects
@@ -36539,7 +36539,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "cd828e9a-738d-4d69-b473-0df16e7f4639")
 			(effects
@@ -36591,7 +36591,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D54"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "86db28bd-4b18-446c-acd0-96ef4e78ceac")
 			(effects
@@ -36603,7 +36603,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "6a55bf0e-a2b3-4f3d-9b1d-df212fa7dd19")
 			(effects
@@ -36907,7 +36907,7 @@
 			(uuid "7e16fadb-9c84-4cde-a5a7-ad501e42c220")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "086bb87d-4df8-4b56-9d4a-598f08d7e0c3")
 			(effects
@@ -36919,7 +36919,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "1da60f60-8132-4c56-9f75-02b4995a2792")
 			(effects
@@ -36931,7 +36931,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "71776c3d-f8ec-4f19-b18f-e64fb69c4a7b")
 			(effects
@@ -36983,7 +36983,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D19"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "6292912b-bdfa-48f1-bd8e-395d8cce7773")
 			(effects
@@ -36995,7 +36995,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "3e9048c4-bb7f-477c-97aa-0964f9979915")
 			(effects
@@ -37299,7 +37299,7 @@
 			(uuid "7c15d09a-fbf2-46b7-aea0-f5911dbef4f1")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "5162528e-90fd-4e48-a1d0-dc610465256c")
 			(effects
@@ -37311,7 +37311,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "4531a56f-d397-4824-ad8c-16e87a697c95")
 			(effects
@@ -37323,7 +37323,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "ee70044c-5c0a-4de4-9670-679f13d48044")
 			(effects
@@ -37375,7 +37375,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D71"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "4f73905b-f7a6-485f-aa38-768a61fc4326")
 			(effects
@@ -37387,7 +37387,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "43bbe12f-f504-4b1c-8abe-695cc666794e")
 			(effects
@@ -37691,7 +37691,7 @@
 			(uuid "29f9b9de-0e16-4d54-80bd-c65d9e583fb7")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "4374098a-4833-4766-b332-b502d4c5ef1d")
 			(effects
@@ -37703,7 +37703,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "45ca7c4d-92b2-4057-82fa-ee7730ffe8cf")
 			(effects
@@ -37715,7 +37715,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "a076220d-5d1f-4fd1-8c7b-1a219756746e")
 			(effects
@@ -37767,7 +37767,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D55"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "80b4be28-588a-49a9-8167-d40f777aeb3c")
 			(effects
@@ -37779,7 +37779,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "e80a8f00-24ea-4ce1-9da8-3d4a620c8fc0")
 			(effects
@@ -38083,7 +38083,7 @@
 			(uuid "c419328b-3a68-4732-8de7-4d50ca62017e")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "026edec5-095e-4b46-9619-0a5cbc7d653b")
 			(effects
@@ -38095,7 +38095,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "c098cba8-ead1-433d-88c2-04f6cf2abc7b")
 			(effects
@@ -38107,7 +38107,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "e36958ef-488c-420e-9277-dcb1a49c575c")
 			(effects
@@ -38159,7 +38159,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D29"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "c49ac088-6049-4c2a-91ba-073c8fb4c7dc")
 			(effects
@@ -38171,7 +38171,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "9201528e-fbd0-4ec2-bc30-501439101ab9")
 			(effects
@@ -38475,7 +38475,7 @@
 			(uuid "b36cb4d3-73a6-4947-9e4c-3299b4510588")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "18a0b12a-a75c-48c1-abb6-06ec0a28cefd")
 			(effects
@@ -38487,7 +38487,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "2c75c5a2-f1d3-4785-b415-3ed192d3eb68")
 			(effects
@@ -38499,7 +38499,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "6e8a38c4-ca7d-448c-baa8-277f1057c8c3")
 			(effects
@@ -38551,7 +38551,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D22"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "0937e659-b57e-43f8-a00a-0ab897b7bc0e")
 			(effects
@@ -38563,7 +38563,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "14c55081-fd27-463d-bc6f-9388b2d08f23")
 			(effects
@@ -38867,7 +38867,7 @@
 			(uuid "4a91ba6e-4830-4bd6-a543-eccc30820558")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "8ffc8ceb-e893-495d-b0b7-8df10d568ce9")
 			(effects
@@ -38879,7 +38879,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "4bb3c7e9-2731-435f-87dc-6d0fd12eaf34")
 			(effects
@@ -38891,7 +38891,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "de6598e9-fcfd-4ff3-8a48-99f6ad781512")
 			(effects
@@ -38943,7 +38943,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D58"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "440108a6-b914-40de-b678-6574b906db4f")
 			(effects
@@ -38955,7 +38955,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "a8ae1263-c834-4e96-9696-95fad6729fd2")
 			(effects
@@ -39259,7 +39259,7 @@
 			(uuid "6a8969b2-ebb9-4746-9fc7-d470dd54b791")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "f0b4003b-5ac0-413d-bf08-4b4d1ed4c932")
 			(effects
@@ -39271,7 +39271,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "a0399980-9997-4df0-a136-2134e2030992")
 			(effects
@@ -39283,7 +39283,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "c26f4536-b04a-474f-b896-ab8d3ffd68b8")
 			(effects
@@ -39335,7 +39335,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D83"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "c1fc2141-1f04-4188-9af3-10f5468017bd")
 			(effects
@@ -39347,7 +39347,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "2ee2a6a4-40c8-4591-abd2-f036331ecbb9")
 			(effects
@@ -39651,7 +39651,7 @@
 			(uuid "031ebcb6-35ee-4f52-8a9d-44b4c85411a0")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "54017296-340b-457e-ad35-a6ee1e0c3d40")
 			(effects
@@ -39663,7 +39663,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "b6407ef9-7047-41b0-88ca-42071751c0cc")
 			(effects
@@ -39675,7 +39675,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "d7a76304-3e2c-4b7d-bac2-13a0c2d3831b")
 			(effects
@@ -39727,7 +39727,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D43"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "bec0b4b9-e4c6-4d9f-a3d6-a3c02f30ff3f")
 			(effects
@@ -39739,7 +39739,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "2d7f0667-ba1e-47c0-ba76-64a7a2bc423f")
 			(effects
@@ -40043,7 +40043,7 @@
 			(uuid "1061f14a-b814-417b-a107-d4130d2c18b3")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "e123318b-6df9-4909-af96-4108707162a1")
 			(effects
@@ -40055,7 +40055,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "1dbc7e7d-6c92-4546-9d3b-ea27c774c591")
 			(effects
@@ -40067,7 +40067,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "29c11a57-730c-4818-872e-c099e88455d8")
 			(effects
@@ -40119,7 +40119,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "01c1cad8-b083-4e78-91de-dcc6c78f39b5")
 			(effects
@@ -40131,7 +40131,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "7437dc2a-3623-4c1f-9619-0e1518df886f")
 			(effects
@@ -40435,7 +40435,7 @@
 			(uuid "a2cc6239-47f9-4cc5-b639-1809d172dea3")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "a8e05466-8a3c-4581-a3c3-1c253752da37")
 			(effects
@@ -40447,7 +40447,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "ab5d4544-c98d-4121-bd7a-3885a60d548a")
 			(effects
@@ -40459,7 +40459,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "abad7b46-ddb0-4098-aeea-90d4d6054059")
 			(effects
@@ -40511,7 +40511,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D50"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "93dcc2f8-af7a-4253-bee0-b009c15efe97")
 			(effects
@@ -40523,7 +40523,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "9c65f1e1-0846-410d-916f-0df6be503fa2")
 			(effects
@@ -40827,7 +40827,7 @@
 			(uuid "430da045-4446-4a5c-87cd-caf72b1d9379")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "1bca38ab-4760-47c2-bb80-39c545fce179")
 			(effects
@@ -40839,7 +40839,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "c3d7ddb9-6508-442b-a419-69b2354db239")
 			(effects
@@ -40851,7 +40851,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "f78cb868-652f-4a82-a616-8342bdd04ab4")
 			(effects
@@ -40903,7 +40903,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D32"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "dac9094f-d7b3-4417-ab27-1df905f2cf49")
 			(effects
@@ -40915,7 +40915,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "176b2a8d-05e2-48bf-816f-036350b4f67e")
 			(effects
@@ -41219,7 +41219,7 @@
 			(uuid "fdd5d9a4-10bf-4f2d-9799-e494901ce135")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "39f8ee84-c5f8-459e-8c7d-dde43a9264e7")
 			(effects
@@ -41231,7 +41231,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "27187450-d9cc-467e-9d9b-4b27097b4c32")
 			(effects
@@ -41243,7 +41243,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "66c79ff4-6352-4315-9ea3-0e439bde97ce")
 			(effects
@@ -41295,7 +41295,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D67"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "6afaaa31-239d-4404-b596-6c3472d211d4")
 			(effects
@@ -41307,7 +41307,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "366427a0-6a0f-4f3b-87d5-cf99aad45194")
 			(effects
@@ -41611,7 +41611,7 @@
 			(uuid "54f092c8-6ba4-4b46-8429-b2ab7a7c8796")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "9b7b6a35-749a-4f89-8194-e815493ca9ae")
 			(effects
@@ -41623,7 +41623,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "2c43d963-e2a7-4fc7-8985-4cd0a9a1f45d")
 			(effects
@@ -41635,7 +41635,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "b5b799a4-8e6f-4647-823c-4b918be4fe09")
 			(effects
@@ -41687,7 +41687,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D46"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "b3a5a990-157c-4970-ac72-bde3954659e9")
 			(effects
@@ -41699,7 +41699,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "07630a01-1470-4a90-9958-9e0dbb13c6bc")
 			(effects
@@ -42003,7 +42003,7 @@
 			(uuid "77a8d529-3682-40df-baea-2367ab13955f")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "36311e57-554f-4e14-be00-ef40d589c66b")
 			(effects
@@ -42015,7 +42015,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "9fe536ec-472a-4171-8469-9904053b744b")
 			(effects
@@ -42027,7 +42027,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "a5094c5a-87f8-40c9-95f5-131c2ca00cdf")
 			(effects
@@ -42079,7 +42079,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "30c56ad7-1277-448b-a079-fdac50a51c46")
 			(effects
@@ -42091,7 +42091,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "2e01303b-a765-4d02-8a66-96b3773da5d5")
 			(effects
@@ -42395,7 +42395,7 @@
 			(uuid "b9778518-271c-46e0-a26d-4ee6ecddbd4f")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "c6bce68b-cba4-4768-b0fa-5b37afde7d19")
 			(effects
@@ -42407,7 +42407,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "110aee2d-5667-4958-87ba-9d8e7f7f41ae")
 			(effects
@@ -42419,7 +42419,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "bb3596b5-db54-4b8f-8639-1c9e2b995899")
 			(effects
@@ -42471,7 +42471,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "e46a0535-5cc5-4b85-b89d-41db2160ab1d")
 			(effects
@@ -42483,7 +42483,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "f16b6322-6396-4d91-a278-05d1f091c878")
 			(effects
@@ -42787,7 +42787,7 @@
 			(uuid "b03a1859-90c8-4c72-9a3b-221d53313eac")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "dd8dec90-e0da-4ec6-b724-231e2747b8fc")
 			(effects
@@ -42799,7 +42799,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "2bd8e070-9026-490d-9e74-102028fba7eb")
 			(effects
@@ -42811,7 +42811,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "c7e9ca9d-fba7-40e5-be8f-704c05c33eef")
 			(effects
@@ -42863,7 +42863,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D39"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "75087d94-44e0-4a34-8377-fccc9ed81a87")
 			(effects
@@ -42875,7 +42875,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "ff948088-4a93-4a9d-a568-b60a224cdfaf")
 			(effects
@@ -43179,7 +43179,7 @@
 			(uuid "59ea925f-cc89-429c-94fc-9b08237ab97b")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "5187bb41-b225-4274-a075-8b502ee8d92b")
 			(effects
@@ -43191,7 +43191,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "b27aef4a-a163-49ea-b731-c8a4a798c650")
 			(effects
@@ -43203,7 +43203,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "cd523d25-5879-41b8-95e7-aa578b3408fb")
 			(effects
@@ -43255,7 +43255,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "1f33890f-95b5-4ff1-b91a-8076b328e3dc")
 			(effects
@@ -43267,7 +43267,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "b8d89f81-c131-4393-b8e1-36e76fa9243e")
 			(effects
@@ -43571,7 +43571,7 @@
 			(uuid "0d3c9af8-8aa4-46d4-9843-2a8767240bc1")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "27415d1b-ff00-47c6-8386-ab5a13105c99")
 			(effects
@@ -43583,7 +43583,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "9fb782a8-ec08-4286-96a3-a357dcbacd49")
 			(effects
@@ -43595,7 +43595,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "bebc7b5d-fd44-4585-a64a-3e6f934a28d5")
 			(effects
@@ -43647,7 +43647,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D18"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "f75a92af-be43-43e1-8e2a-764d455e7678")
 			(effects
@@ -43659,7 +43659,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "cafc554f-9cfe-4a9a-a2e6-95949cac4a93")
 			(effects
@@ -43963,7 +43963,7 @@
 			(uuid "640f989d-079f-4a5e-b3ab-b12eb0125563")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "c66de5ed-1835-4cab-9487-90f14c196a1f")
 			(effects
@@ -43975,7 +43975,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "9dd47c4a-b96b-49a8-9cd0-fb3c9e6adebc")
 			(effects
@@ -43987,7 +43987,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "b927ff69-e112-4c73-81fc-bd8b49c743e6")
 			(effects
@@ -44039,7 +44039,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D25"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "b7e3fa0d-a189-4030-9cea-c9561011de59")
 			(effects
@@ -44051,7 +44051,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "10925621-42ec-4e23-9090-5e954f411c67")
 			(effects
@@ -44355,7 +44355,7 @@
 			(uuid "01c75e3a-9700-476d-b50a-e227d1a5b239")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "02c346d0-c3ce-41c5-a923-e4c0b8829e48")
 			(effects
@@ -44367,7 +44367,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "267b3f4b-3f2d-470c-8c97-6ccbff9817bc")
 			(effects
@@ -44379,7 +44379,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "d6e51ab2-37b4-4024-9c5d-ae3f4b5e993c")
 			(effects
@@ -44431,7 +44431,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D14"
-			(at 3.81 2.12 360)
+			(at 3.81 2.12 0)
 			(layer "B.SilkS")
 			(uuid "cf13dca4-25c9-44b3-9a81-9a0efb8a4c4e")
 			(effects
@@ -44443,7 +44443,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 360)
+			(at 3.81 -2.12 0)
 			(layer "B.Fab")
 			(uuid "3475b231-45b9-4938-92c0-971bc9a754b0")
 			(effects
@@ -44747,7 +44747,7 @@
 			(uuid "768cea3f-f92d-46c5-8f40-8564b5cca7bf")
 		)
 		(fp_text user "K"
-			(at 0 1.8 360)
+			(at 0 1.8 0)
 			(layer "B.SilkS")
 			(uuid "ddfc6395-4300-476c-8a06-4a330511e0aa")
 			(effects
@@ -44759,7 +44759,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 360)
+			(at 4.11 0 0)
 			(layer "B.Fab")
 			(uuid "b59d26bd-794b-4acc-9602-b4d2dd8e8ba4")
 			(effects
@@ -44771,7 +44771,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 360)
+			(at 0 1.8 0)
 			(layer "B.Fab")
 			(uuid "f86c082b-b68c-4167-91a6-0e712b8c78c6")
 			(effects
@@ -44823,7 +44823,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D81"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "ea2d513f-4d3f-42d4-beff-7d7f8afe07e8")
 			(effects
@@ -44835,7 +44835,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "1e37f06f-5734-45dc-aaec-80e9c179733a")
 			(effects
@@ -45139,7 +45139,7 @@
 			(uuid "cd3bb980-7da8-40ad-8412-998cf8d89d90")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "cc1a0316-3cac-4fc1-86f8-eac02ce4ff36")
 			(effects
@@ -45151,7 +45151,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "2cace826-47ad-414d-befd-cc80c54a6a12")
 			(effects
@@ -45163,7 +45163,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "d8a59c69-ee91-4353-9c60-f5224c608bd3")
 			(effects
@@ -45215,7 +45215,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D12"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "82101fff-ca10-4432-9105-a916f2580256")
 			(effects
@@ -45227,7 +45227,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "25215c43-60af-4423-9917-eeef9ad533d3")
 			(effects
@@ -45531,7 +45531,7 @@
 			(uuid "a01ea0bd-a668-437d-9c66-e98c7eac3d64")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "e377cff9-aef6-4a39-9552-8199674b8095")
 			(effects
@@ -45543,7 +45543,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "7b1cd99b-c2c9-4a34-ba07-17736fdb1f6a")
 			(effects
@@ -45555,7 +45555,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "cff6b4c9-0c1d-41d2-91fb-9e28ad2a3675")
 			(effects
@@ -45607,7 +45607,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D76"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "90b4ea3d-a793-41c9-b885-99f441ef9dd5")
 			(effects
@@ -45619,7 +45619,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "754390b1-15a9-43f5-ae7d-63ff6f635223")
 			(effects
@@ -45923,7 +45923,7 @@
 			(uuid "228d06d7-cc5d-474d-8c02-2144d6d21f92")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "da80391a-55b9-4d34-be5d-711ccba0bf48")
 			(effects
@@ -45935,7 +45935,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "0a88c71d-ce9e-41e6-bd55-2da807f8d434")
 			(effects
@@ -45947,7 +45947,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "13287b4e-5c06-4c81-9dc7-a247413faac6")
 			(effects
@@ -45999,7 +45999,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D34"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "730bae71-9a4a-4ef1-8b08-2b541c4de328")
 			(effects
@@ -46011,7 +46011,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "18f3ec16-07c5-4111-904c-00f32db515fb")
 			(effects
@@ -46315,7 +46315,7 @@
 			(uuid "9aa3a91c-07e7-4bb5-8468-8725189bb4b2")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "6729f299-4c2f-46ef-9927-8f89cb23df1a")
 			(effects
@@ -46327,7 +46327,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "1d5bcd81-1254-4a17-b18b-4ce455dc29d1")
 			(effects
@@ -46339,7 +46339,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "2eeffcd9-bb8a-4185-b7e2-12b044267de7")
 			(effects
@@ -46391,7 +46391,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D49"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "6eddebb8-5dcc-40b8-af7a-e828cefb2095")
 			(effects
@@ -46403,7 +46403,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "924b9cf0-88f4-4a87-a1b5-9bfe3e1852a5")
 			(effects
@@ -46707,7 +46707,7 @@
 			(uuid "b70b3d7b-49b9-467a-aabe-9a72c640b2ee")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "6a5d05d7-0bac-43a5-a0a8-2ea2ba092be1")
 			(effects
@@ -46719,7 +46719,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "39e3d092-2d1d-4381-81a5-8e0f582f00a9")
 			(effects
@@ -46731,7 +46731,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "84f622b7-83f9-4007-9472-1078b453b2f8")
 			(effects
@@ -46783,7 +46783,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D42"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "b7dcbd6e-8521-46d0-a0a7-db376994f1e3")
 			(effects
@@ -46795,7 +46795,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "fc137f24-2686-41e1-a3b3-6027d6b33bf5")
 			(effects
@@ -47099,7 +47099,7 @@
 			(uuid "09a66f2b-1573-42f8-96bb-cd8961ad7cd5")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "0990e0cc-82b8-411a-9a0f-5e32630b24f8")
 			(effects
@@ -47111,7 +47111,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "1167d560-9898-44a5-b2c9-6b93c9278d8d")
 			(effects
@@ -47123,7 +47123,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "82709400-5c63-45cd-a61d-53335ef75b94")
 			(effects
@@ -47175,7 +47175,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D41"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "4111e0ec-448d-4c28-85a5-54e0593c1ae7")
 			(effects
@@ -47187,7 +47187,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "b0f887f5-de7e-48bd-8c9d-159c6c3f35ad")
 			(effects
@@ -47491,7 +47491,7 @@
 			(uuid "aa533a08-a645-4cdb-9ee7-272e1383886b")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "c3f6275a-d9a1-41c2-af98-31c48308a87a")
 			(effects
@@ -47503,7 +47503,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "a77e7964-6cba-4142-9cbb-c796e73ee54b")
 			(effects
@@ -47515,7 +47515,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "e801ab2d-eda7-47d8-874d-2b3397b13cf2")
 			(effects
@@ -47567,7 +47567,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D44"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "2431ce05-5165-43e7-afe6-1d3bab1221cd")
 			(effects
@@ -47579,7 +47579,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "4abb9921-75bc-47bb-a650-021de9e1f7eb")
 			(effects
@@ -47883,7 +47883,7 @@
 			(uuid "1e292ee1-efab-4af0-bdb3-449acf0394d3")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "5c8aeb44-c115-4140-92c7-9c69bfd80940")
 			(effects
@@ -47895,7 +47895,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "7e79d9bb-ad02-49fa-bff6-d3024d020c9b")
 			(effects
@@ -47907,7 +47907,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "dde6ec7a-0586-456e-b6f8-1bef8a8c9659")
 			(effects
@@ -47959,7 +47959,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D51"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "3bfb7c40-4622-4d69-993c-dc24f5258670")
 			(effects
@@ -47971,7 +47971,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "39a6a773-8ee7-4199-a715-e006ef95f95f")
 			(effects
@@ -48275,7 +48275,7 @@
 			(uuid "526152fc-ee50-45b9-9d80-edd7c7385816")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "0ced5c8e-21c1-47cb-9386-7c63cf358c1b")
 			(effects
@@ -48287,7 +48287,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "093d14c0-86f2-4a6b-b18d-5a7508dc7d6a")
 			(effects
@@ -48299,7 +48299,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "1e122ab4-27f7-420f-9d25-483438f6afa6")
 			(effects
@@ -48351,7 +48351,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D73"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "7337741a-444e-49fb-9e66-c43612e17489")
 			(effects
@@ -48363,7 +48363,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "aa381391-cd07-4d53-8ed5-a5bb58a7017b")
 			(effects
@@ -48667,7 +48667,7 @@
 			(uuid "8ce43ffe-dafd-4303-b56d-b1851bd9733d")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "1e3d46d4-f431-47ff-8e43-b122a0f4ba42")
 			(effects
@@ -48679,7 +48679,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "27704ca7-3f6f-4d6c-a58e-9751b3f1c6b7")
 			(effects
@@ -48691,7 +48691,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "5fce7192-b5cc-4c86-9cbc-77d408217485")
 			(effects
@@ -48743,7 +48743,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D23"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "09438780-80dc-4937-8eaa-746d911c4e8e")
 			(effects
@@ -48755,7 +48755,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "91f810d7-6934-4187-9dec-6d5f2a84f364")
 			(effects
@@ -49059,7 +49059,7 @@
 			(uuid "daf2c64f-209a-4b2a-ad97-ccffe52d7ea2")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "5f7c9a41-43d9-43e4-a372-a0b3476b5331")
 			(effects
@@ -49071,7 +49071,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "6175a9f1-08b3-4897-b3d7-ec0dce576688")
 			(effects
@@ -49083,7 +49083,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "d896c5b8-8621-4625-aa3c-d2c165686302")
 			(effects
@@ -49135,7 +49135,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D27"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "247d365f-040d-46fb-90ee-088c3b110672")
 			(effects
@@ -49147,7 +49147,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "6918a9d7-58b7-46e5-a3d0-de819fc8c35d")
 			(effects
@@ -49451,7 +49451,7 @@
 			(uuid "b34c0c17-ca6e-4ba7-9442-2000d63799d1")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "3006e646-1fa9-4ead-a54a-4e06a6bfc943")
 			(effects
@@ -49463,7 +49463,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "123ceec2-a40e-4e78-9a60-47c2cd49e53b")
 			(effects
@@ -49475,7 +49475,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "6c93ae8b-e1ab-4be9-b0e5-73233fcf7ce5")
 			(effects
@@ -49527,7 +49527,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D61"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "6369ab6b-9fe3-4a14-a07a-03cae0fbd161")
 			(effects
@@ -49539,7 +49539,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "ee1f160e-fe32-4eee-a5d9-c4e9d5aaf5c0")
 			(effects
@@ -49843,7 +49843,7 @@
 			(uuid "116a7eb6-f4de-4520-ac44-48942133c477")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "c6305afe-feb7-44bb-a008-0427159b2c1b")
 			(effects
@@ -49855,7 +49855,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "3e9201ec-22e0-49b9-8916-48b9b5e56ca9")
 			(effects
@@ -49867,7 +49867,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "b9accba2-742a-49a4-b7dc-49f68c319c3d")
 			(effects
@@ -49919,7 +49919,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D30"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "2a0bd8be-9a36-4233-8889-5ff5abf4ace1")
 			(effects
@@ -49931,7 +49931,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "98213333-acf7-4953-94db-ea6720be74eb")
 			(effects
@@ -50235,7 +50235,7 @@
 			(uuid "c44e333e-32b1-4edb-b3fe-1b51c1241c35")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "03173800-0e5d-4784-abd8-bf410d2a62a8")
 			(effects
@@ -50247,7 +50247,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "4cf9be77-cb98-4a77-a45c-001d56f19fc1")
 			(effects
@@ -50259,7 +50259,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "c23d8545-46db-45a7-9fc1-02a1c5113ef5")
 			(effects
@@ -50311,7 +50311,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D31"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "6b0405e1-3d27-4caa-823f-79c198a0e9dc")
 			(effects
@@ -50323,7 +50323,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "afdc1c51-01da-4f51-85fc-56945e39ea52")
 			(effects
@@ -50627,7 +50627,7 @@
 			(uuid "c318165c-ae53-4031-b34c-5699410fd281")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "84ac79f8-4f89-4d95-8fbc-80e9141d150e")
 			(effects
@@ -50639,7 +50639,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "a877129a-6768-4ea5-a164-06ed966afb5e")
 			(effects
@@ -50651,7 +50651,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "ca128c67-aa0e-4f9d-93c7-65fdee19cdc2")
 			(effects
@@ -50703,7 +50703,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D68"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "01b35c0d-1ba3-4803-93f4-3f3e05465929")
 			(effects
@@ -50715,7 +50715,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "47dfdca2-5c9e-4fde-8ce7-923135f25e2a")
 			(effects
@@ -51019,7 +51019,7 @@
 			(uuid "f3a2363a-bd1d-4c55-8b2c-f381bfa83408")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "06aa0230-5e01-48ec-a054-32e1b2146fff")
 			(effects
@@ -51031,7 +51031,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "b7f18339-9e0b-425d-b134-f7d893f8a8ba")
 			(effects
@@ -51043,7 +51043,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "e0a836fe-999c-4e40-ab97-75bdab0a364a")
 			(effects
@@ -51095,7 +51095,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D77"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "eee98643-0e2e-4629-aa79-31e57ce3851a")
 			(effects
@@ -51107,7 +51107,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "8026cc4f-028e-4f67-a1d6-b8cadab03901")
 			(effects
@@ -51411,7 +51411,7 @@
 			(uuid "9e570aa1-39db-441d-ace8-c2be4ae9db9c")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "e7b24087-1aea-4adc-aa37-0f87b696be32")
 			(effects
@@ -51423,7 +51423,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "3f0c7073-a5b8-43a6-88ea-c74e278579a1")
 			(effects
@@ -51435,7 +51435,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "4599ba4e-fea1-479f-9660-c42b283788a1")
 			(effects
@@ -51487,7 +51487,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D60"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "c3aa5bf3-1466-4b84-8fc3-03c6a902accd")
 			(effects
@@ -51499,7 +51499,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "fef3704e-bfcf-42ea-b0ed-875b97bb636e")
 			(effects
@@ -51803,7 +51803,7 @@
 			(uuid "4de47627-3024-4eca-8de7-4d3b2a442c03")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "d2bb4b78-0bd1-4543-b6da-e4193dffda5c")
 			(effects
@@ -51815,7 +51815,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "4adbc8ae-d8c8-47b2-86ae-961ec48d9b17")
 			(effects
@@ -51827,7 +51827,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "88aacabc-5462-4345-8345-437a6f317b60")
 			(effects
@@ -51879,7 +51879,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D70"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "a33a9ce5-96a3-4b8b-9ef0-523a0fe84c4e")
 			(effects
@@ -51891,7 +51891,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "a402f24f-aba8-46c0-a4ac-531e11cb87ee")
 			(effects
@@ -52195,7 +52195,7 @@
 			(uuid "52993d43-c542-428c-8b2f-0145a11e9a41")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "0680d7cd-106e-47dd-8b88-df7aa874e61a")
 			(effects
@@ -52207,7 +52207,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "0a9ed942-054f-41ac-9bce-dc45e5b0b798")
 			(effects
@@ -52219,7 +52219,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "ba2115bd-cac5-4cc0-8cb6-eae89a21a681")
 			(effects
@@ -52271,7 +52271,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D17"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "528d9a41-dfbc-458e-909e-e03337bb9371")
 			(effects
@@ -52283,7 +52283,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "e3be2924-9601-47ad-9c9c-e7fd9fa2c967")
 			(effects
@@ -52587,7 +52587,7 @@
 			(uuid "24b42918-bb34-40e2-9e15-275b5f9f3788")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "aeace6b2-0f16-499a-9979-cfa4377710cb")
 			(effects
@@ -52599,7 +52599,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "25075a05-646c-4a5e-a340-5c42e813eb90")
 			(effects
@@ -52611,7 +52611,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "2c2eb106-c019-4e44-b6cb-97b7fb94820d")
 			(effects
@@ -52663,7 +52663,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D20"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "8658dcaf-24b1-462d-ac9a-6df2da04ef3f")
 			(effects
@@ -52675,7 +52675,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "7d719d5f-b611-4db9-8929-4e04a41af4fb")
 			(effects
@@ -52979,7 +52979,7 @@
 			(uuid "f0c4a2c3-494a-4433-8227-c91b4bd2e570")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "aee07a46-420d-407b-9cae-0ea6bbacdd02")
 			(effects
@@ -52991,7 +52991,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "6e498cfc-c4df-4281-96e7-eedab1a519bc")
 			(effects
@@ -53003,7 +53003,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "eae9f6fb-7b4a-4dca-afab-0aa612d41ed7")
 			(effects
@@ -53055,7 +53055,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D66"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "73011d44-4812-4b71-8b53-151279ded382")
 			(effects
@@ -53067,7 +53067,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "de16f3f9-f4d8-4c40-9235-f50e75c19dc2")
 			(effects
@@ -53371,7 +53371,7 @@
 			(uuid "4ee16e06-b189-4f61-8a9e-a5da57b1ee07")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "e262e1c3-5f26-4712-b080-4916492a370c")
 			(effects
@@ -53383,7 +53383,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "7c85be3e-6078-42d2-abd5-40db05c0f15e")
 			(effects
@@ -53395,7 +53395,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "a5eb186c-b9a5-446f-ba77-1b8e53210e57")
 			(effects
@@ -53447,7 +53447,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D53"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "439c9131-6c1f-42e2-b10e-cecdeb0a3eb5")
 			(effects
@@ -53459,7 +53459,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "f69ccd45-f383-44b6-a997-c7190edcc0c2")
 			(effects
@@ -53763,7 +53763,7 @@
 			(uuid "3280c504-83a1-44c0-9a4b-b7d193f4f095")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "a66525c2-68a0-4550-8029-8381b1e596f9")
 			(effects
@@ -53775,7 +53775,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "36f6ead9-8c99-42f1-9568-b0afaaeaa573")
 			(effects
@@ -53787,7 +53787,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "f1c0c68e-ceeb-40ea-a7fc-ef4557197c88")
 			(effects
@@ -53839,7 +53839,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D33"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "27bab0e7-039a-4d66-b637-d977b7a8cf7d")
 			(effects
@@ -53851,7 +53851,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "b1f3d41a-ac98-4e1c-9385-ec85452bc5f2")
 			(effects
@@ -54155,7 +54155,7 @@
 			(uuid "659d3afd-13ea-4a0b-a971-6b866a992f26")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "afb82b97-dae3-4597-b32d-b5f3fe5d7c55")
 			(effects
@@ -54167,7 +54167,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "46c16885-146d-4354-9bfd-bdc8d23f8d85")
 			(effects
@@ -54179,7 +54179,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "fbedbc81-8baa-4aba-825e-a4cae89e0765")
 			(effects
@@ -54231,7 +54231,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D15"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "ec4215b6-9a29-479f-8bdf-a87d041addcf")
 			(effects
@@ -54243,7 +54243,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "796630fb-eda0-49ae-b79c-bc49ed71103b")
 			(effects
@@ -54547,7 +54547,7 @@
 			(uuid "ea29c9e4-1323-44b3-9982-2f314f96aca2")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "9bc86b9d-8869-4c47-9d96-e2a17a221f47")
 			(effects
@@ -54559,7 +54559,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "27aacaa0-7852-4589-b82a-4e82d1322762")
 			(effects
@@ -54571,7 +54571,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "db17d62c-613a-43f0-94f3-ddc0aecf821b")
 			(effects
@@ -54623,7 +54623,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "15c8ed49-6366-428d-aca0-67ba1bf75067")
 			(effects
@@ -54635,7 +54635,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "fa89055f-8c8e-4bea-8de3-72fd2b8aebae")
 			(effects
@@ -54939,7 +54939,7 @@
 			(uuid "050231c8-e670-4c7e-a657-9cecb0566121")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "152a1a14-4e49-4369-ae6a-96b1cb445158")
 			(effects
@@ -54951,7 +54951,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "520dec01-7f31-4e2b-8749-efb1d24d8467")
 			(effects
@@ -54963,7 +54963,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "a7c359ec-26fb-4df3-8114-8e2842e6f15d")
 			(effects
@@ -55015,7 +55015,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D11"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "8f99e953-945b-4934-91bf-07029d076e84")
 			(effects
@@ -55027,7 +55027,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "3eabc4e1-3e4b-4a0f-b721-438d98941366")
 			(effects
@@ -55331,7 +55331,7 @@
 			(uuid "88bfebec-e1d8-4555-82b4-8a0f5a598ed7")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "f8233dd5-21cd-4b04-90fd-602eaa918a81")
 			(effects
@@ -55343,7 +55343,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "49dda6ff-bd55-4c04-abfb-3a82b5a695e7")
 			(effects
@@ -55355,7 +55355,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "c95d8d2d-5925-4ed3-ac50-c4e11e850dc8")
 			(effects
@@ -55407,7 +55407,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D79"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "6dfc9c46-6601-486b-9e3f-ad71ba19c3ea")
 			(effects
@@ -55419,7 +55419,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "3c969211-be1e-4cc9-9255-354fbc0c985a")
 			(effects
@@ -55723,7 +55723,7 @@
 			(uuid "07cb9943-03f8-4dcb-9641-260a8f67f576")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "0547bb74-f7ef-4658-80d8-406f1389be30")
 			(effects
@@ -55735,7 +55735,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "154fee48-65bc-41b3-81c7-be9349e74c3d")
 			(effects
@@ -55747,7 +55747,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "845bd832-665c-440d-aa53-e06863e538cd")
 			(effects
@@ -55799,7 +55799,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D82"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "6cf2124c-8cec-4fac-b106-bdba17717df0")
 			(effects
@@ -55811,7 +55811,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "7ca91d7b-eba4-4874-a33d-f918dae2d519")
 			(effects
@@ -56115,7 +56115,7 @@
 			(uuid "08572d01-0b62-47ec-b8cf-80287e0fd000")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "2e1948f4-d72d-4bcf-a4ce-3a7502306c22")
 			(effects
@@ -56127,7 +56127,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "5a884d67-b06b-4163-aee3-d9383d68cdeb")
 			(effects
@@ -56139,7 +56139,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "f06dbc52-8279-4abb-afec-a6f3c543dbc3")
 			(effects
@@ -56191,7 +56191,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D9"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "f158ddab-f714-43e5-afca-0b0f7e338808")
 			(effects
@@ -56203,7 +56203,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "9239c731-3000-440a-80ac-d5af4d3b8a8b")
 			(effects
@@ -56507,7 +56507,7 @@
 			(uuid "a905e769-7090-4fe1-a3ff-b4a9ac2d854f")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "f056ca97-37ae-4076-ac9f-46de927ad56f")
 			(effects
@@ -56519,7 +56519,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "05cf043a-5be5-4974-8b0e-ca9c0470f6e7")
 			(effects
@@ -56531,7 +56531,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "1d549ca6-5b5d-411a-8c6a-a79a34eb616b")
 			(effects
@@ -56583,7 +56583,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D35"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "dd35af66-b4b8-4faa-8e42-957205c8d772")
 			(effects
@@ -56595,7 +56595,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "5f504699-b2b8-473d-a2e5-c4a51e0d0e99")
 			(effects
@@ -56899,7 +56899,7 @@
 			(uuid "734a7cdf-030e-4fb8-bbd6-afce95c4420d")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "e6d89e98-f814-4bfe-aaed-912f2443b607")
 			(effects
@@ -56911,7 +56911,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "2160e924-f07f-43b5-b29b-b72cd340719b")
 			(effects
@@ -56923,7 +56923,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "474a6766-b412-4eb7-bae3-0720e80ea4a5")
 			(effects
@@ -56975,7 +56975,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D56"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "cdbe5084-440f-4dc1-b31e-9da1eb9da687")
 			(effects
@@ -56987,7 +56987,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "42d560b8-3612-4dd7-9223-460709535edb")
 			(effects
@@ -57291,7 +57291,7 @@
 			(uuid "5b3c622c-d079-48fb-8321-aff951ec1d51")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "b6d04ad9-d232-4aee-b60f-f8d8dc93c009")
 			(effects
@@ -57303,7 +57303,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "c38727bd-e26d-4655-ad1b-f2ceab44a736")
 			(effects
@@ -57315,7 +57315,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "fe5ea879-1b5b-4777-a5ee-12fb7a96481f")
 			(effects
@@ -57367,7 +57367,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D16"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "077cfe45-6727-4b98-bbae-0dc7c71a085e")
 			(effects
@@ -57379,7 +57379,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "b73d9af4-029f-435c-aa4c-d88a970839bd")
 			(effects
@@ -57683,7 +57683,7 @@
 			(uuid "514a44ff-93df-43ac-9c18-8226520cfc36")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "ff33152f-fcce-4240-a545-e6cf6f8fe778")
 			(effects
@@ -57695,7 +57695,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "17f80099-2684-4932-9ec6-1cacd2e53227")
 			(effects
@@ -57707,7 +57707,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "657e0166-2163-4cd8-b76d-25a0988a1c2a")
 			(effects
@@ -57759,7 +57759,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D52"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "0294d3f3-ada5-4038-922a-77f14e796f0a")
 			(effects
@@ -57771,7 +57771,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "bab9e361-0d50-4abb-87c3-9a02c9e27c42")
 			(effects
@@ -58075,7 +58075,7 @@
 			(uuid "4b3b84b2-2fdc-4b9c-872b-1271f34cdf16")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "00daad5c-7505-4bb9-ad7b-e278ba74d61b")
 			(effects
@@ -58087,7 +58087,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "875f5923-be02-433d-a362-244c33520181")
 			(effects
@@ -58099,7 +58099,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "af24f1ae-8cc5-4bbd-b944-acd9addb46f9")
 			(effects
@@ -58151,7 +58151,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D63"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "c52c2c76-8fe8-42bf-94be-444e2f1e9775")
 			(effects
@@ -58163,7 +58163,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "75feb210-37e4-48b8-a326-2e1aa2502472")
 			(effects
@@ -58467,7 +58467,7 @@
 			(uuid "0e4afb4b-bb04-41cf-8a86-9425f4c2d321")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "93358723-3121-4091-8948-00c5980eaf36")
 			(effects
@@ -58479,7 +58479,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "194a8bb9-6ab8-4ce1-af7b-e953cf24c21a")
 			(effects
@@ -58491,7 +58491,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "6e976f22-ce9d-4883-8aeb-186b4de496a0")
 			(effects
@@ -58543,7 +58543,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D59"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "73799b58-fe1c-4d08-9e5a-91106d9789ca")
 			(effects
@@ -58555,7 +58555,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "52e00e97-70e6-4870-b2e6-0c1f44ae0f29")
 			(effects
@@ -58859,7 +58859,7 @@
 			(uuid "9e23acb4-76e9-4fe8-b4df-5c59455df7d6")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "b4d77ff2-e511-4a34-8d04-72162000b0b2")
 			(effects
@@ -58871,7 +58871,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "4821d77d-99dc-4594-b204-7c27533b61f6")
 			(effects
@@ -58883,7 +58883,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "ba70254a-4345-44f5-b2f4-5901f3d36235")
 			(effects
@@ -58935,7 +58935,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D40"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "b18aefb3-74ef-483e-a887-f7a588b74a0c")
 			(effects
@@ -58947,7 +58947,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "ce86ea0f-591d-41ae-8db6-43ffd2abed03")
 			(effects
@@ -59251,7 +59251,7 @@
 			(uuid "b6468482-c8ac-4f53-9b16-709d42702e25")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "9b9f9612-7522-446a-aea3-18ac2ca76619")
 			(effects
@@ -59263,7 +59263,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "b589bc1d-352c-4717-8a96-ad05491b36ef")
 			(effects
@@ -59275,7 +59275,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "df2ff35e-8154-41f1-ae9a-72f3a1141227")
 			(effects
@@ -59327,7 +59327,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D21"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "92ab19fb-47d5-4dcd-b1b5-e80b5e6fc32e")
 			(effects
@@ -59339,7 +59339,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "2700888d-0c96-432e-ab9d-24adbda0675d")
 			(effects
@@ -59643,7 +59643,7 @@
 			(uuid "6dba873e-feb4-4bbf-b512-9d2e8bce5fd8")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "70a4eed7-f231-4da8-a053-334d9699ef75")
 			(effects
@@ -59655,7 +59655,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "81acd21d-d5ba-4bb3-b4fe-bfdb542760a3")
 			(effects
@@ -59667,7 +59667,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "974cef21-f1e3-4380-b9b5-f2874a2acf76")
 			(effects
@@ -59719,7 +59719,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D48"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "c342f808-168d-41f4-a225-ded781b362a3")
 			(effects
@@ -59731,7 +59731,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "22c0f13a-8855-405c-8f65-d7de62895e37")
 			(effects
@@ -60035,7 +60035,7 @@
 			(uuid "86296969-a04b-43bb-baa0-98fffc21dcf7")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "80cb0702-b156-4226-8508-f296c18509d3")
 			(effects
@@ -60047,7 +60047,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "208b37f4-2545-4eb6-b94e-29a90887e31c")
 			(effects
@@ -60059,7 +60059,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "4585ee89-e2ca-45e6-997d-4a1bf421cc52")
 			(effects
@@ -60111,7 +60111,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D78"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "983fc46b-2dcd-4192-b796-07cd90ba8e82")
 			(effects
@@ -60123,7 +60123,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "a8d67c9a-6cd8-45f3-9262-62577f5dd7b7")
 			(effects
@@ -60427,7 +60427,7 @@
 			(uuid "8d619e86-7fa3-47b6-8379-6a9338c28f9a")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "69ecab3b-2222-4ac8-b2da-9169070268b2")
 			(effects
@@ -60439,7 +60439,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "41b33abd-7834-4845-9479-321e6a18b0fa")
 			(effects
@@ -60451,7 +60451,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "65acbd26-9147-44df-8c63-bca8f2e965bb")
 			(effects
@@ -60503,7 +60503,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D75"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "eb0b64ab-7633-4e48-878e-f0724a958c34")
 			(effects
@@ -60515,7 +60515,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "7b0f604a-da23-409a-8f5c-48a67028c273")
 			(effects
@@ -60819,7 +60819,7 @@
 			(uuid "af2134a5-6314-4a60-b930-f902894c64a3")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "9f9c149a-d7f0-4745-b65d-9987e884d2cc")
 			(effects
@@ -60831,7 +60831,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "f041a216-5e24-4caf-8ed4-bbf31fd00829")
 			(effects
@@ -60843,7 +60843,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "fe3d6633-bdef-488d-8f20-44b5099539d4")
 			(effects
@@ -60895,7 +60895,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "af75ec9e-354d-4b25-9eca-100eaa19f63f")
 			(effects
@@ -60907,7 +60907,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "c635aa9f-486e-4e07-b407-4278fc809c89")
 			(effects
@@ -61211,7 +61211,7 @@
 			(uuid "7d300323-32e7-4933-b0a1-1fe9a4be9c1c")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "aaa09293-307c-46fc-9501-2cc69720404d")
 			(effects
@@ -61223,7 +61223,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "343c27de-d602-474a-8343-bd88ac0e57e4")
 			(effects
@@ -61235,7 +61235,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "89517397-7ef8-4ed0-b8a1-92cd0e56b729")
 			(effects
@@ -61287,7 +61287,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D45"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "018147dc-ec8f-4189-b071-191957c2633c")
 			(effects
@@ -61299,7 +61299,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "94e5d20c-f28e-436e-b88a-1bbb45652d71")
 			(effects
@@ -61603,7 +61603,7 @@
 			(uuid "a4e75d7d-780c-45d4-b8a1-14e21bae981f")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "a291c756-f36d-4558-a420-a898b30622c5")
 			(effects
@@ -61615,7 +61615,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "71f2463b-a3d2-4ba9-a49d-cbab5557baa4")
 			(effects
@@ -61627,7 +61627,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "eeb32da7-309b-43ea-801b-271527f686e8")
 			(effects
@@ -61679,7 +61679,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "58de40bd-e537-44aa-8b70-74a06132d477")
 			(effects
@@ -61691,7 +61691,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "dad22166-fb1a-4906-9228-7005195230dc")
 			(effects
@@ -61995,7 +61995,7 @@
 			(uuid "3f0b6185-3b91-4069-a480-05fb767dc7bd")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "956244bd-00a2-470a-abc1-599226603291")
 			(effects
@@ -62007,7 +62007,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "20f700f0-61d8-4db2-8349-6ec929e5826a")
 			(effects
@@ -62019,7 +62019,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "c830a046-f734-4014-b2ba-9f18ad2d3fd1")
 			(effects
@@ -62071,7 +62071,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D10"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "149da5af-b1c5-41f5-b1d7-2dc471b83c32")
 			(effects
@@ -62083,7 +62083,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "385bf06b-a704-4c20-8eed-030ffbaaac06")
 			(effects
@@ -62387,7 +62387,7 @@
 			(uuid "8a6a536b-d450-4ea6-9178-ae6f31b5b87f")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "1460b49a-0b8a-40b2-8cda-39c4b9f9df31")
 			(effects
@@ -62399,7 +62399,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "41664bf7-7acf-4de9-85e3-d79c8071b8f3")
 			(effects
@@ -62411,7 +62411,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "4f682cc7-b378-44aa-a234-4b46a83e2a89")
 			(effects
@@ -62463,7 +62463,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D28"
-			(at 3.81 2.12 270)
+			(at 3.81 2.12 -90)
 			(layer "B.SilkS")
 			(uuid "73938e14-35e4-44c5-9bf1-6c6c3227a925")
 			(effects
@@ -62475,7 +62475,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 3.81 -2.12 270)
+			(at 3.81 -2.12 -90)
 			(layer "B.Fab")
 			(uuid "e30853b4-609f-416b-b86d-dc2cd84eb2d7")
 			(effects
@@ -62779,7 +62779,7 @@
 			(uuid "c083953d-8f5c-45a3-b571-dbfddeb2f35b")
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.SilkS")
 			(uuid "988da00e-d38d-4b08-98bf-94d8ddb3618d")
 			(effects
@@ -62791,7 +62791,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.11 0 270)
+			(at 4.11 0 -90)
 			(layer "B.Fab")
 			(uuid "4c5ffedc-3a47-4aed-8d3f-04a7f5aea29e")
 			(effects
@@ -62803,7 +62803,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 1.8 270)
+			(at 0 1.8 -90)
 			(layer "B.Fab")
 			(uuid "c401ef3a-60de-4582-b7d0-d9a8a6e5cebc")
 			(effects
@@ -63175,31 +63175,9 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 284.75 162.5 0)
+		(at 230 88.5 0)
 		(layer "F.Fab")
-		(uuid "00a78415-13c0-4cf8-9069-170870dbd03d")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 168.5 68 0)
-		(layer "F.Fab")
-		(uuid "04e9ae92-7d48-45b7-a67a-a95e902631e3")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 91.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "0539a4cc-9970-4334-aa18-2371ccaffb3b")
+		(uuid "02f9a4cf-4848-4cf1-b7da-3e558e2e9528")
 		(effects
 			(font
 				(size 1 1)
@@ -63210,161 +63188,7 @@
 	(gr_text "${REFERENCE}"
 		(at 59 68 0)
 		(layer "F.Fab")
-		(uuid "080c832a-d011-4e06-9e8c-2bc9f0f01772")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 186.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "0b5ab94a-d6f1-4bb2-b8a0-d1c86ab4dbcf")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 159 144 0)
-		(layer "F.Fab")
-		(uuid "0bd3a2be-6a74-4ae1-84e0-c43840042d26")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 61.25 144 0)
-		(layer "F.Fab")
-		(uuid "0c43b099-9f2c-440c-8f47-79efc68609ac")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 325 162.5 0)
-		(layer "F.Fab")
-		(uuid "12703647-f057-49c7-a160-38724eb5e263")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 220 107 0)
-		(layer "F.Fab")
-		(uuid "13db2a3f-66ab-44e0-9167-a70c49c5bd65")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 106 107 0)
-		(layer "F.Fab")
-		(uuid "1726c22a-26df-419c-8e46-686704ae3ec9")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 173 88.5 0)
-		(layer "F.Fab")
-		(uuid "19173a7e-bd6d-4c5b-9dc5-aa5075c30ddd")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 325 144 0)
-		(layer "F.Fab")
-		(uuid "1e6893fb-f7af-45e8-b650-c99f4de46c67")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 268 88.5 0)
-		(layer "F.Fab")
-		(uuid "1fe324d0-d7a5-4621-b43f-a2263f3dad36")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 201 107 0)
-		(layer "F.Fab")
-		(uuid "21e036be-1718-4014-a76f-26ed37657f57")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 129.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "262a78ef-fe95-4d78-aadd-57666dff42a6")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 300.5 125 0)
-		(layer "F.Fab")
-		(uuid "266a45dc-61ea-480e-b7b3-c1a17a74593d")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 224.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "28da69fe-3036-45a0-8dee-9148c7884274")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 59 88.5 0)
-		(layer "F.Fab")
-		(uuid "31194b1e-5d44-40ca-bc57-2a3296dfcb0c")
+		(uuid "06c55f97-9b38-4708-86e4-b7176f3e3857")
 		(effects
 			(font
 				(size 1 1)
@@ -63375,172 +63199,7 @@
 	(gr_text "${REFERENCE}"
 		(at 344 162.5 0)
 		(layer "F.Fab")
-		(uuid "3679e46c-2486-402c-94eb-106d8a4865a5")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 148.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "3b170588-3c87-4ca5-acf9-7a227391c0bd")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 239 107 0)
-		(layer "F.Fab")
-		(uuid "3d71bda3-a31e-4ac4-9b3e-de11cae54613")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 125 107 0)
-		(layer "F.Fab")
-		(uuid "3fb2d682-3150-4bb5-9b60-afd4ba19eb5e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 268 68 0)
-		(layer "F.Fab")
-		(uuid "4263742d-1e40-40d2-aa75-e4b8ca530950")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 344 125 0)
-		(layer "F.Fab")
-		(uuid "431ff70a-a8d3-4a93-a6a6-25e0be7d943b")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 140 144 0)
-		(layer "F.Fab")
-		(uuid "512984f2-3b76-4374-8da0-9ef88a90485d")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 110.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "5d75eb38-38ec-4832-9c5e-58c34a2756f2")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 61.25 162.5 0)
-		(layer "F.Fab")
-		(uuid "61150f49-101c-4019-987c-b25ff1ec87f1")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 182 107 0)
-		(layer "F.Fab")
-		(uuid "624625c3-9b40-4be6-bdd8-0c04b45b70a4")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 121 144 0)
-		(layer "F.Fab")
-		(uuid "637b352a-5ac7-4e93-87a0-d71bc9e7eb8c")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 287 68 0)
-		(layer "F.Fab")
-		(uuid "6467d292-fe8c-417c-81b3-3088afd521a2")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 344 107 0)
-		(layer "F.Fab")
-		(uuid "64855e3f-d9e6-4cdb-9141-f76b89e49921")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 344 88.5 0)
-		(layer "F.Fab")
-		(uuid "68bae61b-13c4-4f7d-98bc-be0fd8e8a5b7")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 243.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "6f83348c-167a-476d-af79-57e40e7b733d")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 116 88.5 0)
-		(layer "F.Fab")
-		(uuid "705b067c-8e10-4f9f-ab69-1d4942196186")
+		(uuid "06c71207-1ff0-4773-a6ec-1a992b14ed9e")
 		(effects
 			(font
 				(size 1 1)
@@ -63551,7 +63210,7 @@
 	(gr_text "${REFERENCE}"
 		(at 206.5 68 0)
 		(layer "F.Fab")
-		(uuid "72776570-799e-4a72-90da-e1f866c4d7e0")
+		(uuid "089aa7f6-e8b7-4958-97a2-5a60311f45b1")
 		(effects
 			(font
 				(size 1 1)
@@ -63560,9 +63219,9 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 135 88.5 0)
+		(at 268 88.5 0)
 		(layer "F.Fab")
-		(uuid "76aa968c-eeee-466d-864a-5b56fa71e72d")
+		(uuid "091ac575-e0ad-4036-90dd-833de730857e")
 		(effects
 			(font
 				(size 1 1)
@@ -63571,185 +63230,9 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 88 68 0)
+		(at 125 107 0)
 		(layer "F.Fab")
-		(uuid "76b56636-dda7-4cdf-ac3d-f06d8640ac19")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 249 68 0)
-		(layer "F.Fab")
-		(uuid "7ea34a67-720c-49c7-b85f-8756f1d884a7")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 197 144 0)
-		(layer "F.Fab")
-		(uuid "8686e220-6164-4348-a515-5df1eea582ae")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 173 162.5 0)
-		(layer "F.Fab")
-		(uuid "873194d7-cfbb-4cf4-ad7d-260b653a2832")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 167.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "8991f063-a4dc-476e-9b87-260179ae1e2d")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 108.75 162.5 0)
-		(layer "F.Fab")
-		(uuid "89dc72c0-5e8c-4312-8618-5948b44f887e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 258 107 0)
-		(layer "F.Fab")
-		(uuid "909adf08-f2ec-4b59-bf2d-aea20912ead4")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 187.5 68 0)
-		(layer "F.Fab")
-		(uuid "94594f61-aa1c-4dcc-a019-d7bc4af7b8e5")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 306 162.5 0)
-		(layer "F.Fab")
-		(uuid "97ce7005-b08d-4740-be57-0e5bc7d70d02")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 85.25 162.5 0)
-		(layer "F.Fab")
-		(uuid "9ca849b1-caf3-4bb8-86a4-ac49f0a17a7a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 325 88.5 0)
-		(layer "F.Fab")
-		(uuid "9f452189-728c-4995-ade3-c155f2456417")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 107 68 0)
-		(layer "F.Fab")
-		(uuid "a1e1d8ef-3ea2-4d39-a9bd-af246a112714")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 249 88.5 0)
-		(layer "F.Fab")
-		(uuid "a31c61a7-888d-438b-8685-237dc5cafc1c")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 281.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "b2e8cbd0-63b9-4318-b6ad-76b84473075c")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 102 144 0)
-		(layer "F.Fab")
-		(uuid "b3a143be-2e00-42e9-a588-43b902095655")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 287 88.5 0)
-		(layer "F.Fab")
-		(uuid "b4b90980-bda4-4d74-97c7-9aafaab27e84")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 273 144 0)
-		(layer "F.Fab")
-		(uuid "b607f94d-cf9e-490c-ad03-e4b9f0875f87")
+		(uuid "094e075e-b413-477b-89b8-9ee962757362")
 		(effects
 			(font
 				(size 1 1)
@@ -63760,7 +63243,51 @@
 	(gr_text "${REFERENCE}"
 		(at 237.75 162.5 0)
 		(layer "F.Fab")
-		(uuid "b64d7736-ea4d-4669-a5ad-62701b9e7fb7")
+		(uuid "0aab6c0a-d2a6-4608-a09b-b4f4f9cfd789")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 159 144 0)
+		(layer "F.Fab")
+		(uuid "11c2e7d5-66c6-4448-8a1b-c00bbd724209")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 325 88.5 0)
+		(layer "F.Fab")
+		(uuid "1ccb3240-41f3-40fc-b7de-2dbcfc07bc51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 300.5 125 0)
+		(layer "F.Fab")
+		(uuid "1fd7c0aa-36a2-4f27-896d-099c3087ab25")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 116 88.5 0)
+		(layer "F.Fab")
+		(uuid "203c6bc1-56d8-493a-aa08-f9a5c311d0f3")
 		(effects
 			(font
 				(size 1 1)
@@ -63771,7 +63298,7 @@
 	(gr_text "${REFERENCE}"
 		(at 192 88.5 0)
 		(layer "F.Fab")
-		(uuid "b790f41e-7fc6-4377-bba3-82f2190d50a6")
+		(uuid "2239a892-35c8-4a20-bcf7-bbbd567e8ce3")
 		(effects
 			(font
 				(size 1 1)
@@ -63780,9 +63307,9 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 154 88.5 0)
+		(at 85.25 162.5 0)
 		(layer "F.Fab")
-		(uuid "b8506e65-8851-41ac-a9c9-a8c0fe46a4e6")
+		(uuid "231aa0a4-ea52-41eb-84ab-be4544e4caaf")
 		(effects
 			(font
 				(size 1 1)
@@ -63791,229 +63318,9 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 230 88.5 0)
+		(at 306 162.5 0)
 		(layer "F.Fab")
-		(uuid "b92a16d7-ae3c-4d60-b511-da1644399668")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 306 88.5 0)
-		(layer "F.Fab")
-		(uuid "b94db710-0a26-49e1-9601-e93144e8070b")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 254 144 0)
-		(layer "F.Fab")
-		(uuid "bc000b6f-8320-4a72-875e-fb5ab04f69c0")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 126 68 0)
-		(layer "F.Fab")
-		(uuid "bc3193a4-e6c9-4bcf-953e-1c64de522576")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 145 68 0)
-		(layer "F.Fab")
-		(uuid "bd606352-6ea8-455a-9169-3f3bbddf3aba")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 277 107 0)
-		(layer "F.Fab")
-		(uuid "beb1d5c4-8a9b-4dc3-bbb9-eeabee2bc06f")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 235 144 0)
-		(layer "F.Fab")
-		(uuid "bedabada-150e-4290-93af-be90ac9009f3")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 225.5 68 0)
-		(layer "F.Fab")
-		(uuid "c01d5b7e-bc93-4170-b3cd-3314ac486888")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 83 144 0)
-		(layer "F.Fab")
-		(uuid "c111800a-b653-458b-b132-060ec5c65342")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 205.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "c57edf1b-1211-437b-ace0-95f47f56e16f")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 262.5 125.5 0)
-		(layer "F.Fab")
-		(uuid "c5db5226-9fde-4bf8-b307-f63a45445401")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 144 107 0)
-		(layer "F.Fab")
-		(uuid "cb0715c9-6616-4fa7-b740-cec3db4fa83e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 97 88.5 0)
-		(layer "F.Fab")
-		(uuid "cbcc25fe-ac73-4091-b5cc-6d4771815989")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 63.5 107 0)
-		(layer "F.Fab")
-		(uuid "ccc1625e-b8c6-46f7-8f7c-3c077d3f3cc9")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 296 107 0)
-		(layer "F.Fab")
-		(uuid "d0c04cc5-b2dc-4129-9e7b-fa4ee549b08e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 78 88.5 0)
-		(layer "F.Fab")
-		(uuid "d17ac31e-16d4-4e31-a38e-c21be48bf398")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 344 144 0)
-		(layer "F.Fab")
-		(uuid "d9140faa-3e02-47c2-8e1b-34d1abbf8c8a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 178 144 0)
-		(layer "F.Fab")
-		(uuid "e18d3fbf-7a6f-4d44-b751-fa6bb886c091")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 216 144 0)
-		(layer "F.Fab")
-		(uuid "e898f9f2-2337-4542-b876-1691493b6a49")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 299 144 0)
-		(layer "F.Fab")
-		(uuid "eee62dc3-96cf-438d-a83f-bee26bf21c6a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "${REFERENCE}"
-		(at 306 68 0)
-		(layer "F.Fab")
-		(uuid "f7c386a6-a3ef-45c5-821a-cb11af805a3a")
+		(uuid "233ee1bc-6a0d-47e9-bdcd-4735cd0e4953")
 		(effects
 			(font
 				(size 1 1)
@@ -64024,7 +63331,7 @@
 	(gr_text "${REFERENCE}"
 		(at 65.75 125.5 0)
 		(layer "F.Fab")
-		(uuid "fb843130-d5bc-4d41-abac-491af747a6de")
+		(uuid "29ddaf2e-e9ce-4d6c-8ebe-a3b6172e1368")
 		(effects
 			(font
 				(size 1 1)
@@ -64033,9 +63340,9 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 87 107 0)
+		(at 97 88.5 0)
 		(layer "F.Fab")
-		(uuid "fbd509c0-d223-45e2-a241-49e9b4180731")
+		(uuid "2aa3f684-1da8-4895-9d9d-811fface20c4")
 		(effects
 			(font
 				(size 1 1)
@@ -64044,9 +63351,9 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 322.25 115.5 0)
+		(at 178 144 0)
 		(layer "F.Fab")
-		(uuid "fbe1b48a-da61-4890-8419-53e47c86e4dc")
+		(uuid "2bdbe230-9cde-425d-9976-a56e42b68235")
 		(effects
 			(font
 				(size 1 1)
@@ -64055,9 +63362,9 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 211 88.5 0)
+		(at 277 107 0)
 		(layer "F.Fab")
-		(uuid "fc00317d-b3c0-4184-9138-ad254190b2e5")
+		(uuid "2cca173f-69de-4b72-ba6d-c28006c6f58d")
 		(effects
 			(font
 				(size 1 1)
@@ -64066,9 +63373,64 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 261.25 162.5 0)
+		(at 61.25 144 0)
 		(layer "F.Fab")
-		(uuid "fc6adb0f-ccd5-4916-a59b-6bfe83a08961")
+		(uuid "2cd25ef7-33b2-46d7-8850-48137af01407")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 182 107 0)
+		(layer "F.Fab")
+		(uuid "2d34c7f3-be36-4b71-8309-f3c67f94a3a3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 187.5 68 0)
+		(layer "F.Fab")
+		(uuid "30856e03-11cc-4a4b-95f1-4e0ed1bc9f2d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 344 125 0)
+		(layer "F.Fab")
+		(uuid "31f22537-65a9-4af0-8310-48587a971921")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 108.75 162.5 0)
+		(layer "F.Fab")
+		(uuid "339a1236-c21d-436b-8bd7-40515c26a972")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 63.5 107 0)
+		(layer "F.Fab")
+		(uuid "33a4ec7f-59e9-4462-9a94-e2315072d3e3")
 		(effects
 			(font
 				(size 1 1)
@@ -64079,7 +63441,645 @@
 	(gr_text "${REFERENCE}"
 		(at 163 107 0)
 		(layer "F.Fab")
-		(uuid "ffc60359-691f-433b-b959-99f5296ace00")
+		(uuid "394211f7-6eec-46c9-b66a-8e8b164cb5aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 168.5 68 0)
+		(layer "F.Fab")
+		(uuid "3ad7e8cb-9bc5-4530-9f3e-cc38799c2fad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 344 144 0)
+		(layer "F.Fab")
+		(uuid "3c72b2ed-8053-44d2-884b-8495d0cccb5e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 225.5 68 0)
+		(layer "F.Fab")
+		(uuid "3ea3c3c8-8518-49ca-94f0-40ac7b804081")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 59 88.5 0)
+		(layer "F.Fab")
+		(uuid "44a939fc-059c-4634-b2e9-6ccb951a61fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 273 144 0)
+		(layer "F.Fab")
+		(uuid "44fd0581-4754-4bf0-8ee4-bc02f3336113")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 126 68 0)
+		(layer "F.Fab")
+		(uuid "492b081c-064e-4055-b3ff-71c8b966efbd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 154 88.5 0)
+		(layer "F.Fab")
+		(uuid "4d971505-4be0-4b21-87a6-53342a0def10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 87 107 0)
+		(layer "F.Fab")
+		(uuid "58c592de-4e81-47fd-9341-a20325e8dbf7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 344 107 0)
+		(layer "F.Fab")
+		(uuid "5977a065-5790-4e9d-9015-27766a3c3159")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 91.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "5adb372c-a22e-4bdc-b724-c2b59fe3416c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 167.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "5f9ffd77-339a-4fee-9af9-e2866a375e67")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 322.25 115.5 0)
+		(layer "F.Fab")
+		(uuid "62ae17bb-c7f6-4fc8-9b82-5953c32ce17c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 287 88.5 0)
+		(layer "F.Fab")
+		(uuid "65eafc8c-e8a0-48e8-afce-7408a6656b0c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 135 88.5 0)
+		(layer "F.Fab")
+		(uuid "6639f660-51ac-4ee9-8a2d-29fb20382d75")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 107 68 0)
+		(layer "F.Fab")
+		(uuid "6bec57e1-b013-45cf-9991-726efda21314")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 88 68 0)
+		(layer "F.Fab")
+		(uuid "6c19085b-9c37-43a8-a84c-39008db71322")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 186.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "6fc2dcfb-c3b4-45e8-8af3-54d0d520c6d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 197 144 0)
+		(layer "F.Fab")
+		(uuid "70b0b79f-6765-4e85-9157-7b4e07263203")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 287 68 0)
+		(layer "F.Fab")
+		(uuid "71fb4fbb-7970-4837-818f-c38b948bf842")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 299 144 0)
+		(layer "F.Fab")
+		(uuid "722c217a-ad25-4f6b-9aa8-bbc7d627165e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 224.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "74650eed-6cb1-4d26-916b-b0fbbbd27757")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 102 144 0)
+		(layer "F.Fab")
+		(uuid "75f23968-0332-4d60-9993-02390905ad5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 261.25 162.5 0)
+		(layer "F.Fab")
+		(uuid "77422c5a-c861-463e-82ba-f57aa9c10727")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 106 107 0)
+		(layer "F.Fab")
+		(uuid "7b4d8bd3-b68e-47aa-b70e-92fb2ce44cc4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 173 88.5 0)
+		(layer "F.Fab")
+		(uuid "7c7efb35-0cfc-4366-b058-b3a318f86f93")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 306 88.5 0)
+		(layer "F.Fab")
+		(uuid "7ecba1ba-dee8-4dd4-9770-cb0d3c6ee594")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 281.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "7f9d4202-f7e4-44a2-a526-1fa52c6fa673")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 239 107 0)
+		(layer "F.Fab")
+		(uuid "81377848-60bb-4a43-a7a5-ff85535380d2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 216 144 0)
+		(layer "F.Fab")
+		(uuid "840f764f-f889-43a6-a138-1d2b34a13b83")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 220 107 0)
+		(layer "F.Fab")
+		(uuid "861ba6de-32e0-495a-bc5c-76a8402f619e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 254 144 0)
+		(layer "F.Fab")
+		(uuid "91a1e142-17e2-4f3d-87fe-41775a64d18c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 325 162.5 0)
+		(layer "F.Fab")
+		(uuid "94e65bb2-9367-4570-8fdc-469e9e033feb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 262.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "98dc85fc-b014-481b-869d-1e6693906d68")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 145 68 0)
+		(layer "F.Fab")
+		(uuid "a35ac9bb-6ba7-41b0-960f-5722b70c8165")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 249 68 0)
+		(layer "F.Fab")
+		(uuid "a3936c93-2361-455a-bbb0-c44d5cb3b7b3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 61.25 162.5 0)
+		(layer "F.Fab")
+		(uuid "a9acd26e-6774-4b55-af3f-c101b983397a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 344 88.5 0)
+		(layer "F.Fab")
+		(uuid "acac57ff-b588-4bf7-9817-36306769d055")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 121 144 0)
+		(layer "F.Fab")
+		(uuid "b063809f-6999-4125-b523-55913f1a0850")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 173 162.5 0)
+		(layer "F.Fab")
+		(uuid "bb2cee36-2cc5-44b8-8dab-9c3e62c4e16e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 83 144 0)
+		(layer "F.Fab")
+		(uuid "bbc3bd45-6358-492b-9d43-2612fced86e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 205.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "bdd9d693-b859-4569-961b-82c4d8d8de30")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 78 88.5 0)
+		(layer "F.Fab")
+		(uuid "bf3a87d9-a3fc-4529-8ada-e6ac419266aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 296 107 0)
+		(layer "F.Fab")
+		(uuid "c07b5698-cc6c-41e5-8470-b8d6e56e0099")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 235 144 0)
+		(layer "F.Fab")
+		(uuid "c3212aa8-3f72-4e4b-ad0c-848e6a8db406")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 201 107 0)
+		(layer "F.Fab")
+		(uuid "c5412909-105b-403a-8e7f-d1a2f73f8262")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 284.75 162.5 0)
+		(layer "F.Fab")
+		(uuid "c88b22e3-a773-4519-a0be-78d44f24fa08")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 249 88.5 0)
+		(layer "F.Fab")
+		(uuid "ca0ad5d4-7cbc-44f2-b4a3-22984224e4e4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 306 68 0)
+		(layer "F.Fab")
+		(uuid "cdbab837-e0b1-4983-b429-678e482caaff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 268 68 0)
+		(layer "F.Fab")
+		(uuid "d8acd02a-6d54-40cd-9e96-fc3e43780c7d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 258 107 0)
+		(layer "F.Fab")
+		(uuid "d917f91c-1349-4807-8ac8-40df0fdddb13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 144 107 0)
+		(layer "F.Fab")
+		(uuid "dc3e5347-678c-444d-93a1-f0239c96e403")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 110.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "e049ac13-cf44-4218-9989-8b14eca7a2c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 148.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "e441e6f7-144f-40b7-932b-96f13fd2c4a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 140 144 0)
+		(layer "F.Fab")
+		(uuid "e6c8c162-5d61-4e3e-aabb-cdffdb5cc95b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 211 88.5 0)
+		(layer "F.Fab")
+		(uuid "ec3ecaa0-3a51-4bea-bf9d-8257777caabe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 129.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "f88e24e4-7861-4fe9-a07f-cde44352fe56")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 243.5 125.5 0)
+		(layer "F.Fab")
+		(uuid "f9a0f7cd-b99b-423b-8cda-416007ed28c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 325 144 0)
+		(layer "F.Fab")
+		(uuid "f9f4f59d-ed53-4556-bdb6-3d9783ef135c")
 		(effects
 			(font
 				(size 1 1)
@@ -70768,6 +70768,46 @@
 		(uuid "497b7540-0ffd-4b48-a4d2-79d7dc05d21b")
 	)
 	(segment
+		(start 156.875 94.975)
+		(end 156.875 85.475)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 105)
+		(uuid "4c3ecafc-64d1-4757-a19e-bf0b0d5233d9")
+	)
+	(segment
+		(start 164.625 132.475)
+		(end 164.625 122.475)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 105)
+		(uuid "4d5f6e43-e1a6-4837-a7cc-f0b92e5c0053")
+	)
+	(segment
+		(start 167.5 119.6)
+		(end 166.400001 118.500001)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 105)
+		(uuid "52893f25-5d6c-4a90-8dae-23bd536e65b3")
+	)
+	(segment
+		(start 159 138.1)
+		(end 164.625 132.475)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 105)
+		(uuid "7d86b74a-08af-4c74-8425-79def25f66c3")
+	)
+	(segment
+		(start 166.400001 104.500001)
+		(end 163 101.1)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 105)
+		(uuid "a40accac-f24e-4f20-bce6-6fcf433118d4")
+	)
+	(segment
 		(start 173.866401 54.7537)
 		(end 154 74.620101)
 		(width 0.2)
@@ -70776,12 +70816,44 @@
 		(uuid "a85fb137-6e0d-477c-a0c6-e5c7bbc8029e")
 	)
 	(segment
+		(start 164.625 122.475)
+		(end 167.5 119.6)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 105)
+		(uuid "bf8a3d53-5c0f-4d6f-a035-4a3f39ef4265")
+	)
+	(segment
 		(start 330.92 57.13)
 		(end 328.5437 54.7537)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 105)
 		(uuid "c976e8b2-8e43-4d5d-9952-fa95a3156d47")
+	)
+	(segment
+		(start 166.400001 118.500001)
+		(end 166.400001 104.500001)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 105)
+		(uuid "cd32ac3b-e4ed-410c-a446-30ea49aa0705")
+	)
+	(segment
+		(start 163 101.1)
+		(end 156.875 94.975)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 105)
+		(uuid "ecd65341-839f-49ce-b6d9-f49976ae4b2f")
+	)
+	(segment
+		(start 156.875 85.475)
+		(end 154 82.6)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 105)
+		(uuid "ee7fac4c-b9a2-44a0-9aef-f6667f4f71b8")
 	)
 	(segment
 		(start 341.125 153.725)
