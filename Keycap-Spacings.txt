@@ -1,0 +1,6 @@
+Spacings
+1.00u=19x19mm
+1.25u=19x24mm
+1.50u=19x28mm
+1.75u=19x33mm
+Layer: User1

@@ -1,4 +1,4 @@
-23470723323553450
+23481048377178148
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -88270,6 +88270,13 @@ Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u
 2
 2
 Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.00u_Spacing
+Kailh Choc keyswitch V1 CPG1350 V1 Keycap 1.00u
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u
+0
+2
+2
+Switch_Keyboard_Kailh
 SW_Kailh_Choc_V1_1.25u
 Kailh Choc keyswitch V1 CPG1350 V1 Keycap 1.25u
 Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.25u
@@ -88280,6 +88287,13 @@ Switch_Keyboard_Kailh
 SW_Kailh_Choc_V1_1.25u_90deg
 Kailh Choc keyswitch V1 CPG1350 V1 Keycap 1.25u 90deg
 Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.25u 90deg
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.25u_Spacing
+Kailh Choc keyswitch V1 CPG1350 V1 Keycap 1.25u
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.25u
 0
 2
 2
@@ -88298,6 +88312,13 @@ Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.50u 90deg
 2
 2
 Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.50u_Spacing
+Kailh Choc keyswitch V1 CPG1350 V1 Keycap 1.50u
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.50u
+0
+2
+2
+Switch_Keyboard_Kailh
 SW_Kailh_Choc_V1_1.75u
 Kailh Choc keyswitch V1 CPG1350 V1 Keycap 1.75u
 Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.75u
@@ -88308,6 +88329,13 @@ Switch_Keyboard_Kailh
 SW_Kailh_Choc_V1_1.75u_90deg
 Kailh Choc keyswitch V1 CPG1350 V1 Keycap 1.75u 90deg
 Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.75u 90deg
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.75u_Spacing
+Kailh Choc keyswitch V1 CPG1350 V1 Keycap 1.75u
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.75u
 0
 2
 2
@@ -88417,6 +88445,13 @@ Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.00u Offset
 2
 2
 Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_6.00u_Spacing
+Kailh Choc keyswitch V1 CPG1350 V1 Keycap 6.00u
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.00u
+0
+2
+2
+Switch_Keyboard_Kailh
 SW_Kailh_Choc_V1_6.25u
 Kailh Choc keyswitch V1 CPG1350 V1 Keycap 6.25u
 Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 6.25u
@@ -88462,6 +88497,13 @@ Switch_Keyboard_Kailh
 SW_Kailh_Choc_V1_ISOEnter_270deg
 Kailh Choc keyswitch V1 CPG1350 V1 Keycap ISOEnter 270deg
 Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap ISOEnter 270deg
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_ISOEnter_Spacing
+Kailh Choc keyswitch V1 CPG1350 V1 Keycap ISOEnter
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout Keycap ISOEnter
 0
 2
 2
