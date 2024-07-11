@@ -1,4 +1,4 @@
-23450077014051092
+23470723323553450
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96053,6 +96053,90 @@ MX,cherry,gateron,kailh,pg1511,stabilizer,stab
 0
 0
 0
+marbastlib-choc
+LED_choc_1206R
+Add-on for regular choc-footprints with MHT151RGBCT 1206 reverse mount LED
+kailh choc 1206 rearmount rear mount led rgb backlight 
+0
+4
+4
+marbastlib-choc
+LED_choc_1206R-ROT
+Add-on for regular choc-footprints with MHT151RGBCT 1206 reverse mount LED
+kailh choc 1206 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-choc
+LED_choc_6028R
+Add-on for regular choc-footprints with 6028 reverse mount LED
+kailh choc 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-choc
+LED_choc_6028R-ROT
+Add-on for regular choc-footprints with 6028 reverse mount LED
+kailh choc 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-choc
+SW_choc_v1_1.5u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_1.25u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_1.75u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_1u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1.5u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1.25u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1.75u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-choc
+SW_choc_v1_HS_CPG135001S30_1u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
 nice-nano-kicad-master
 nice_nano
 
