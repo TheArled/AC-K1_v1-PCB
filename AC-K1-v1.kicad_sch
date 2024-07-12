@@ -7839,7 +7839,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.00u_Spacing"
+		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_1.50u_Spacing"
 			(at 208.28 172.72 0)
 			(effects
 				(font
