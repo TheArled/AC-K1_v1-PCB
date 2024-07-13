@@ -707,22 +707,22 @@
 				)
 			)
 		)
-		(symbol "Switch:SW_SPST"
+		(symbol "Switch:SW_SPDT"
 			(pin_names
 				(offset 0) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "SW"
-				(at 0 3.175 0)
+				(at 0 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "SW_SPST"
-				(at 0 -2.54 0)
+			(property "Value" "SW_SPDT"
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -739,6 +739,15 @@
 				)
 			)
 			(property "Datasheet" "~"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Switch, single pole double throw"
 				(at 0 0 0)
 				(effects
 					(font
@@ -747,7 +756,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Single Pole Single Throw (SPST) switch"
+			(property "ki_keywords" "switch single-pole double-throw spdt ON-ON"
 				(at 0 0 0)
 				(effects
 					(font
@@ -756,19 +765,10 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "switch lever"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_SPST_0_0"
+			(symbol "SW_SPDT_0_1"
 				(circle
 					(center -2.032 0)
-					(radius 0.508)
+					(radius 0.4572)
 					(stroke
 						(width 0)
 						(type default)
@@ -779,7 +779,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.524 0.254) (xy 1.524 1.778)
+						(xy -1.651 0.254) (xy 1.651 2.286)
 					)
 					(stroke
 						(width 0)
@@ -790,8 +790,19 @@
 					)
 				)
 				(circle
-					(center 2.032 0)
-					(radius 0.508)
+					(center 2.032 -2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.4572)
 					(stroke
 						(width 0)
 						(type default)
@@ -801,9 +812,20 @@
 					)
 				)
 			)
-			(symbol "SW_SPST_1_1"
+			(symbol "SW_SPDT_1_1"
+				(rectangle
+					(start -3.175 3.81)
+					(end 3.175 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
 				(pin passive line
-					(at -5.08 0 0)
+					(at 5.08 2.54 180)
 					(length 2.54)
 					(name "A"
 						(effects
@@ -821,7 +843,7 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 0 180)
+					(at -5.08 0 0)
 					(length 2.54)
 					(name "B"
 						(effects
@@ -831,6 +853,24 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2368,6 +2408,10 @@
 	(no_connect
 		(at 342.9 71.12)
 		(uuid "86936675-d9ba-464c-9237-e7b3a6b6d89e")
+	)
+	(no_connect
+		(at 313.69 156.21)
+		(uuid "e416bab7-c54d-42ed-af73-679c4449531c")
 	)
 	(wire
 		(pts
@@ -4261,7 +4305,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 153.67) (xy 313.69 153.67)
+			(xy 307.34 151.13) (xy 313.69 151.13)
 		)
 		(stroke
 			(width 0)
@@ -5397,7 +5441,7 @@
 	)
 	(global_label "BATIN"
 		(shape output)
-		(at 308.61 153.67 180)
+		(at 307.34 151.13 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5407,7 +5451,7 @@
 		)
 		(uuid "65c45e1a-939e-493b-960d-948bb0cd2ca5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 300.3633 153.67 0)
+			(at 299.0933 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7396,7 +7440,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPST")
+		(lib_id "Switch:SW_SPDT")
 		(at 318.77 153.67 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7406,7 +7450,7 @@
 		(fields_autoplaced yes)
 		(uuid "18912929-72fe-4767-9424-d1462f4af463")
 		(property "Reference" "SW84"
-			(at 318.77 148.59 0)
+			(at 318.77 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7414,7 +7458,7 @@
 			)
 		)
 		(property "Value" "POWER"
-			(at 318.77 151.13 0)
+			(at 318.77 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7431,7 +7475,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 318.77 153.67 0)
+			(at 318.77 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7439,7 +7483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
+		(property "Description" "Switch, single pole double throw"
 			(at 318.77 153.67 0)
 			(effects
 				(font
@@ -7453,6 +7497,9 @@
 		)
 		(pin "1"
 			(uuid "601243c5-c61d-4f4b-a21e-d6cdfa6f6814")
+		)
+		(pin "3"
+			(uuid "01fb1143-cd63-40a4-8e9a-51f4233cbe1a")
 		)
 		(instances
 			(project "AC-K1-v1"
@@ -18395,7 +18442,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_6.00u_Spacing"
+		(property "Footprint" "Switch_Keyboard_Kailh:SW_Kailh_Choc_V1_5.50u_Spacing"
 			(at 132.08 198.12 0)
 			(effects
 				(font
