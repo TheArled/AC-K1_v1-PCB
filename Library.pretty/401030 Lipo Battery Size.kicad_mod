@@ -1,0 +1,127 @@
+(footprint "401030 Lipo Battery Size"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "bc10c1bb-a024-4df1-ab98-150560ab2838")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "401030 Lipo Battery Size"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4dd4812e-e4b9-4b1e-8cf9-f25113370103")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "88d75bf0-68c7-43ab-8e08-046c7f94d5d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ccfe97a7-b2a2-4e5b-8072-cb0cd5e3094c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f99af01-16a3-44fc-bd2c-5be67d1b7718")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_rect
+		(start -11.25 -6.25)
+		(end -10 -5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "6d86d854-a419-405f-912d-55a6cdd9467d")
+	)
+	(fp_rect
+		(start -11.25 -3.875)
+		(end -10 -2.625)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "a01b76d0-9f1c-4994-a068-f6654eb7a237")
+	)
+	(fp_rect
+		(start -10 -9.5)
+		(end 20 0.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "4678f1bd-68a2-41b3-b507-a77c972473a9")
+	)
+	(fp_rect
+		(start -12 -9.75)
+		(end 20.25 0.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "70622158-fb1d-48cb-812e-370fc72ecd29")
+	)
+	(fp_text user "401030 LiPo Battery 110mAh"
+		(at -6 -8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "68a94104-406a-45b8-959f-95a204346bab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+)
