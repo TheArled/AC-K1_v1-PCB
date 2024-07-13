@@ -1,4 +1,4 @@
-23758174097041160
+23759895239769901
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64602,6 +64602,13 @@ Library
 0
 0
 0
+Library
+Kailh-PG1350-2u
+
+
+0
+4
+4
 Library
 Kailh_socket_PG1350
 Kailh "Choc" PG1350 keyswitch socket mount
