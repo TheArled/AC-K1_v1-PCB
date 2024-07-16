@@ -111,7 +111,7 @@
 		(layer "F.CrtYd")
 		(uuid "70622158-fb1d-48cb-812e-370fc72ecd29")
 	)
-	(fp_text user "401030 LiPo Battery 110mAh"
+	(fp_text user "401030 LiPo Battery 110mA"
 		(at -6 -8 0)
 		(unlocked yes)
 		(layer "F.SilkS")
