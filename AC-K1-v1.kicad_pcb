@@ -21543,6 +21543,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21555,6 +21556,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21567,6 +21569,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -60143,7 +60146,7 @@
 		(descr "JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST PH top entry")
 		(property "Reference" "J1"
-			(at 1 2.55 270)
+			(at 1 2.55 -90)
 			(layer "B.SilkS")
 			(uuid "9416de8d-7568-4f94-955c-669937ee1319")
 			(effects
@@ -60155,7 +60158,7 @@
 			)
 		)
 		(property "Value" "BATTERY"
-			(at 1 -7.45 270)
+			(at 1 -7.45 -90)
 			(layer "B.Fab")
 			(uuid "48514e0e-4751-40d8-9eb2-4bdd4b8691ed")
 			(effects
@@ -60614,7 +60617,7 @@
 			(uuid "edbdcb84-0a7a-4d50-ba87-5c94c5a7a597")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1 -2.5 270)
+			(at 1 -2.5 -90)
 			(layer "B.Fab")
 			(uuid "caae5ddd-1f47-436e-a36d-d8b9448ab854")
 			(effects
