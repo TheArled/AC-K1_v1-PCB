@@ -231,7 +231,6 @@
 		(uuid "22c30d35-e3d3-4fce-9120-0ba301205be9")
 	)
 	(model "${KIPRJMOD}/Library.pretty/3D-Models/PCB-Support.step"
-		(hide yes)
 		(offset
 			(xyz 0 0 0)
 		)
